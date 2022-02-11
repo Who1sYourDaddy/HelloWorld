@@ -3,6 +3,6 @@ package ru.skypro;
 public class Main {
 
     public static void main(String[] args) {
-	System.out.println("This is the best code for new branch");
+	System.out.println("Second time");
     }
 }
